@@ -1,0 +1,92 @@
+{
+  "dataset_samples": 159,
+  "num_regimes": 8,
+  "cross_validation": {
+    "total_samples": 159.0,
+    "n_folds": 5.0,
+    "nearest_centroid_accuracy": 1.0,
+    "knn3_accuracy": 1.0
+  },
+  "regimes": [
+    {
+      "label": "1",
+      "samples": 19,
+      "mean_lux": 359.65,
+      "mean_cie_x": 0.4453,
+      "mean_cie_y": 0.3899,
+      "mean_cct_k": 2741.2,
+      "mean_medi": 143.33,
+      "dominant_actuation": "OFF"
+    },
+    {
+      "label": "2",
+      "samples": 20,
+      "mean_lux": 363.04,
+      "mean_cie_x": 0.4263,
+      "mean_cie_y": 0.3756,
+      "mean_cct_k": 2945.5,
+      "mean_medi": 162.94,
+      "dominant_actuation": "OFF"
+    },
+    {
+      "label": "3",
+      "samples": 20,
+      "mean_lux": 361.04,
+      "mean_cie_x": 0.3928,
+      "mean_cie_y": 0.3471,
+      "mean_cct_k": 3425.2,
+      "mean_medi": 199.49,
+      "dominant_actuation": "OFF"
+    },
+    {
+      "label": "4",
+      "samples": 20,
+      "mean_lux": 362.71,
+      "mean_cie_x": 0.3749,
+      "mean_cie_y": 0.3337,
+      "mean_cct_k": 3828.1,
+      "mean_medi": 226.96,
+      "dominant_actuation": "OFF"
+    },
+    {
+      "label": "5",
+      "samples": 20,
+      "mean_lux": 360.83,
+      "mean_cie_x": 0.3575,
+      "mean_cie_y": 0.3208,
+      "mean_cct_k": 4353.4,
+      "mean_medi": 254.4,
+      "dominant_actuation": "OFF"
+    },
+    {
+      "label": "6",
+      "samples": 20,
+      "mean_lux": 359.83,
+      "mean_cie_x": 0.3411,
+      "mean_cie_y": 0.306,
+      "mean_cct_k": 5025.0,
+      "mean_medi": 282.61,
+      "dominant_actuation": "OFF"
+    },
+    {
+      "label": "7",
+      "samples": 20,
+      "mean_lux": 370.5,
+      "mean_cie_x": 0.3233,
+      "mean_cie_y": 0.2928,
+      "mean_cct_k": 6099.9,
+      "mean_medi": 327.3,
+      "dominant_actuation": "OFF"
+    },
+    {
+      "label": "8",
+      "samples": 20,
+      "mean_lux": 381.59,
+      "mean_cie_x": 0.3128,
+      "mean_cie_y": 0.285,
+      "mean_cct_k": 6975.2,
+      "mean_medi": 364.29,
+      "dominant_actuation": "OFF"
+    }
+  ]
+}
